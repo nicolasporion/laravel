@@ -30,6 +30,7 @@ class WelcomeController extends Controller {
 	 */
 	public function index()
 	{
+		\Log::info(['test' => 'tedfsdfdsf']);
 		return view('welcome');
 	}
 
