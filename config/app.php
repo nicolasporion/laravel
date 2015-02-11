@@ -26,7 +26,7 @@ return [
 	|
 	*/
 
-	'url' => 'http://dev.local/',
+	'url' => 'http://laravel.app/',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -78,7 +78,7 @@ return [
 	|
 	*/
 
-	'key' => env('APP_KEY', 'SomeRandomString'),
+	'key' => env('APP_KEY', 'jhdg96wny5xa6g1gicq6my4t40h7c2kl'),
 
 	'cipher' => MCRYPT_RIJNDAEL_128,
 
